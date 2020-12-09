@@ -10,7 +10,7 @@ puts 'Hello World'
 puts "Hello World"
 
 puts "Betty's pie shop"
-puts 'Betty\'s pie shop' #escape sequence??????
+puts 'Betty\'s pie shop' 
 puts "1. Hello\n2. World"
 puts "1. Hello 2. World"
 
